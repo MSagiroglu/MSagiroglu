@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="">### Hi there 👋
 ###   * About Me:    
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
 
@@ -47,6 +47,38 @@
   </p>
 
 <br> 
+<br> 
+
+
+
+
+
+
+![Java](https://img.shields.io/badge/java-6495ED.svg?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-778899.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-1997B5&.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-FF0000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0000FF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-FF6347.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-00BFFF.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+
+
+
+
+###  * GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/apiusername=ademkeskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=adem-keskin&theme=blue-green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-keskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 
 
 
