@@ -1,9 +1,14 @@
-<img src="https://raw.githubusercontent.com/MSagiroglu/MSagiroglu/3ffb45692d6893c8bbd619f0b753407876e7f3c0/1686425093976.jpg">### Hi there 👋
+<img src="https://raw.githubusercontent.com/MSagiroglu/MSagiroglu/3ffb45692d6893c8bbd619f0b753407876e7f3c0/1686425093976.jpg">
+
+### Hi there 👋
 ###   * About Me:    
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
 
 <h3 align="center">I'm a Java-Fan...  I´m curruntly work on a new Project with Selenium - Cucumber Framework  </h3>
 <p align="justify">
+
+
+
   
 <ul>
     
@@ -21,7 +26,13 @@
  
 </ul>
 
+
 </p>
+<br clear="both">
+
+![Snake animation](https://github.com/baliezgi/baliezgi/blob/output/github-contribution-grid-snake.svg)
+
+###
 <p align="left"></p>
 
 
@@ -78,6 +89,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adem-keskin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 
 
 
