@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MSagiroglu/MSagiroglu/3ffb45692d6893c8bbd619f0b753407876e7f3c0/1686425093976.jpg">
-
+<p align="center">
+  <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Mustafa+SAĞIROĞLU.;I+am+a+Full+Stack+Automation+Test+Engineer.;&center=true&width=500&height=50"></a>
+</p>
 ### Hi there 👋 ,My name is Mustafa, from Turkey
 ###   * About Me:    
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
