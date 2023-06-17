@@ -2,8 +2,9 @@
 <p align="center">
   <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Mustafa+SAĞIROĞLU.;I+am+a+Full+Stack+Automation+Test+Engineer.;&center=true&width=500&height=50"></a>
 </p>
-### Hi there 👋 ,My name is Mustafa, from Turkey
-###   * About Me:    
+### Hi there 👋 ,My name is Mustafa, from Turkey ###   <br <br
+
+* About Me : 
   <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
 
 <h3 align="center">I'm a Java-Fan...  I´m curruntly work on a new Project with Selenium - Cucumber Framework  </h3>
@@ -31,6 +32,23 @@
 
 
 </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![html](https://skillicons.dev/icons?i=html)](html)
+[![Css](https://skillicons.dev/icons?i=css)](css)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
+[![Gherkin](https://skillicons.dev/icons?i=gherkin)](https://cucumber.io/docs/gherkin/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
+[![Intellij](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![VScode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+<br />
 <br clear="both">
 
 ![Snake animation](https://github.com/baliezgi/baliezgi/blob/output/github-contribution-grid-snake.svg)
