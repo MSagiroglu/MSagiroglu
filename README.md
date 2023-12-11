@@ -51,7 +51,9 @@
 <br />
 <br clear="both">
 
-!(https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+!              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.0.0
+            
 
 ###
 <p align="left"></p>
