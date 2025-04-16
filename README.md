@@ -1,36 +1,55 @@
 <img src="https://raw.githubusercontent.com/MSagiroglu/MSagiroglu/3ffb45692d6893c8bbd619f0b753407876e7f3c0/1686425093976.jpg">
 <p align="center">
-  <a href="https://github.com/quatronostro/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+My+name+is+Mustafa+SAĞIROĞLU.;I+am+a+Full+Stack+Automation+Test+Engineer.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/quatronostro/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Mustafa+SAĞIROĞLU;Full+Stack+Test+Automation+Engineer;ISTQB+Certified+QA+Engineer;&center=true&width=500&height=45">
+  </a>
 </p>
-### Hi there 👋 ,My name is Mustafa, from Turkey ###   <br <br
 
-* About Me : 
-  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid.17342682713_asid.137892267275_crid.600353195418_kw.linked%20in_d.c_tid.kwd-1131147195_n.g_mt.e_geo.9044175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> 
+<h1 align="center">👋 Hello World, I'm Mustafa from Turkey</h1>
 
-<h3 align="center">I'm a Java-Fan...  I´m currently work on a new Project with Selenium - Cucumber Framework  </h3>
-<p align="justify">
+## 👨‍💻 About Me
 
+📌 I am an ISTQB-certified QA Automation Engineer with nearly 4 years of experience in both corporate and startup environments.  
+🔍 I have successfully designed and implemented test strategies for web, API, and mobile platforms with hands-on experience in full end-to-end (E2E) testing.  
+💻 My primary tech stack includes Java, Selenium, Cucumber, TestNG, REST Assured, Maven, Appium, and more.  
+📱 I also specialize in mobile automation with Appium for both Android and iOS platforms.  
+🧠 My software journey began while studying mechanical engineering, where I discovered my love for Java – and I’ve been driven by curiosity ever since.  
+🚦 I enjoy diving deep into application architecture and contributing to quality by simulating real user behaviors and ensuring performance and stability.  
+👥 Experienced in Agile/Scrum teams, actively participating in test planning, execution, and CI/CD pipeline integrations using Git, Jenkins, and Jira.  
+💬 Detail-oriented, collaborative, and continuously learning – I aim to stay on the cutting edge of test automation.
 
+## 🎯 Career Goal
 
-  
-<ul>
-    
-  <li>Carried out Manual and Automation Testing
+To become not just a tester, but a visionary QA leader – someone who architects innovative quality strategies, pushes the boundaries of automation, and advocates for software excellence at every stage of development 🎯
 
-  <li>Experienced in writing SQL queries
-    
-  <li>Software Development Engineer in Test
+---
 
-  <li>Experienced in working in agile environment
+## 🧰 Tech Stack
 
-  <li>Actively participated in preparation of Test Cases and Test Scripts
+| Area | Technologies |
+|------|--------------|
+| 💻 Languages | Java, SQL, Gherkin |
+| 🧪 Testing Tools | Selenium, Appium, Cucumber, TestNG, REST Assured, Postman |
+| 🔧 Build & CI/CD | Maven, Jenkins, Git, GitHub |
+| 🗂️ DB & Reporting | MySQL, PostgreSQL, Allure |
+| 📱 Mobile | Appium (Android & iOS) |
+| 🔄 Project Mgmt | Jira, Confluence |
+| 🖥 IDEs | IntelliJ IDEA, VS Code |
 
-  <li>Developed test case and executed test cases for creating different vouchers
- 
-</ul>
+---
 
+### 📄 Certifications & Resume
 
+☑️ You can access all of my certifications (including ISTQB) from the links above.  
+📎 Feel free to download my resume using the button below 📄
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSagiroglu&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSagiroglu&layout=compact&theme=radical" height="150"/>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
@@ -51,11 +70,6 @@
 <br />
 <br clear="both">
 
-!              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.0.0
-            
-
-###
 <p align="left"></p>
 
 
