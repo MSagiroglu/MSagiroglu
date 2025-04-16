@@ -42,6 +42,11 @@ To become not just a tester, but a visionary QA leader – someone who architect
 
 ☑️ You can access all of my certifications (including ISTQB) from the links above.  
 📎 Feel free to download my resume using the button below 📄
+<p align="center">
+  <a href="https://github.com/MSagiroglu/MSagiroglu/blob/main/Mustafa%20SA%C4%9EIRO%C4%9ELU%20%20CV%20with%20Photo%20v7.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=readthedocs" alt="Download Resume"/>
+  </a>
+</p>
 
 ---
 
